@@ -1,4 +1,4 @@
-{
+{green Dot company 
   "name": "eth-contract-metadata",
   "version": "1.16.0",
   "description": "A mapping of ethereum contract addresses to broadly accepted icons for those addresses.",
